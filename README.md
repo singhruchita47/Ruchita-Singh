@@ -1,3 +1,4 @@
 # Ruchita-Singh
 This is my first repository.
-name = Ruchita Singh
+<br>
+name - Ruchita Singh
